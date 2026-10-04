@@ -1,94 +1,117 @@
 # Hi, I'm Amar Pawar 👋
 
-### Aspiring Java Developer | Spring Boot | REST APIs | MySQL | Oracle | React.js
+### Java Backend Developer | Spring Boot | REST APIs | MySQL | AWS
 
-I am a Computer Science graduate and aspiring Java Developer with a strong interest in backend development.
+B.Tech Computer Science and Engineering graduate with a strong focus on
+Java backend development.
 
-I enjoy building real-world applications using Java, Spring Boot, REST APIs, databases, and modern frontend technologies.
+I build real-world backend applications using Java, Spring Boot,
+Spring Security, REST APIs, JPA/Hibernate, and MySQL.
+
+Currently looking for an entry-level Java Developer / Java Backend
+Developer opportunity where I can contribute to real-world software
+projects and continue growing as a backend engineer.
+
+---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate
+- 🎓 B.Tech in Computer Science & Engineering — 2025
 - 💻 Focused on Java Backend Development
-- 🚀 Building an E-commerce Multivendor Application
-- 🌱 Currently improving my skills in Spring Boot, Hibernate, and Spring Data JPA
-- 🔧 Interested in Backend Development and REST API Development
-- 🎯 Looking for opportunities as a Java Developer
+- 🚀 Built a Multi-Vendor E-Commerce Platform
+- 🔐 Experienced with Spring Security and JWT authentication
+- 🗄️ Working with MySQL, SQL, JPA and Hibernate
+- ☁️ Hands-on experience with AWS deployment
+- 🧪 API testing with Postman
+- 🔧 Version control with Git and GitHub
 - 📍 Pune, Maharashtra, India
+- 🎯 Open to Java Developer / Java Backend Developer opportunities
 
-## 🛠️ Technical Skills
+---
 
-### 💻 Programming Language
+## 🛠️ Tech Stack
+
+### 💻 Programming
 - Java
-
-### ⚙️ Backend Technologies
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- JDBC
-
-### 🗄️ Databases
-- MySQL
-- Oracle Database
 - SQL
 
-### 🎨 Frontend Technologies
+### ⚙️ Backend
+- Spring Boot
+- Spring MVC
+- Spring Security
+- REST APIs
+- Spring Data JPA
+- Hibernate
+- JDBC
+- JWT
+
+### 🗄️ Database
+- MySQL
+- Oracle
+- SQL
+
+### ☁️ Cloud & DevOps
+- AWS EC2
+- AWS RDS
+- AWS S3
+- AWS IAM
+- Security Groups
+- Docker
+- Linux Basics
+
+### 🎨 Frontend
 - HTML
 - CSS
 - JavaScript
 - React.js
+- TypeScript
 
-### 🔧 Tools & Development
+### 🔧 Tools
 - Git
 - GitHub
-- IntelliJ IDEA
-- Postman
 - Maven
-
-## 🚀 Featured Project
-
-### 🛒 E-commerce Multivendor Application
-
-A backend application designed for a multi-vendor e-commerce platform.
-
-**Technologies:**
-
-`Java` `Spring Boot` `REST APIs` `Spring Data JPA` `Hibernate` `MySQL`
-
-**Key Features:**
-
-- 👤 User registration and authentication
-- 📧 Email verification using OTP
-- 🏪 Seller registration and management
-- 📦 Product management
-- 🛒 Shopping cart management
-- 🔐 Secure API development
-- 🌐 RESTful API architecture
-- 🗄️ Database integration
-
-## 📚 Currently Learning
-
-- Advanced Spring Boot
-- Spring Data JPA
-- Hibernate
-- REST API Design
-- Backend Development
-- React.js
-
-## 🎯 Career Goal
-
-To start my professional career as a Java Developer and contribute to real-world software projects while continuously improving my technical and problem-solving skills.
-
-## 📊 GitHub Activity
-
-I regularly practice coding, build projects, and improve my Java backend development skills.
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Amar Pawar](https://www.linkedin.com/in/amar-pawar0000/)
-- 📧 Email: amarpawar9764@gmail.com
+- Postman
+- IntelliJ IDEA
+- Eclipse
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+## 🚀 Featured Project
+
+### 🛒 Multi-Vendor E-Commerce Platform
+
+A full-stack e-commerce platform with a Spring Boot backend designed
+to support customers, sellers, and administrators.
+
+### Backend Technologies
+
+`Java` `Spring Boot` `Spring Security` `JWT`
+`Spring Data JPA` `Hibernate` `MySQL`
+`REST APIs` `Razorpay` `AWS`
+
+### Key Features
+
+- 👤 Customer, Seller and Admin modules
+- 🔐 JWT-based authentication and role-based authorization
+- 🏪 Seller registration and management
+- 📦 Product management
+- 🔎 Product filtering, sorting and pagination
+- 🛒 Shopping cart and wishlist
+- 🎟️ Coupon management
+- 📋 Order management and tracking
+- ⭐ Product reviews and ratings
+- 💳 Razorpay payment integration
+- 👨‍💼 Admin and seller management features
+- ☁️ AWS-based deployment
+- 🧪 REST API testing using Postman
+
+### Architecture
+
+```text
+Controller
+     ↓
+ Service
+     ↓
+Repository
+     ↓
+   MySQL
